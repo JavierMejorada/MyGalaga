@@ -45,10 +45,6 @@ El juego incorpora conceptos de **Programación Orientada a Objetos (POO)** como
 
 ---
 
-## 📂 Vista previa
-*(Agrega un screenshot del juego en ejecución aquí)*  
-
----
 
 ## 📬 Contacto
 Si deseas conocer más de mis proyectos o colaborar:  
