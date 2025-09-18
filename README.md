@@ -48,7 +48,7 @@ El juego incorpora conceptos de **Programación Orientada a Objetos (POO)** como
 
 ## 📬 Contacto
 Si deseas conocer más de mis proyectos o colaborar:  
-- 📧 **Correo:** tunombre@email.com  
+- 📧 **Correo:** jjavier0139@gmail.com 
 - 💼 **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/javier-mejorada-frontend/)  
 
 ---
